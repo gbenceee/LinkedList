@@ -6,7 +6,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		List list = new OrderedDoublyLinkedList();
-//		List list = new DoublyLinkedList();
 		list.add(12);
 		list.add(21);
 		list.add(3);

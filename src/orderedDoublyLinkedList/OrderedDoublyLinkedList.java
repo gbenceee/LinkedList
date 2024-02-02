@@ -1,8 +1,8 @@
 package orderedDoublyLinkedList;
 
-import list.List;
+import list.InitList;
 
-public class OrderedDoublyLinkedList implements List {
+public class OrderedDoublyLinkedList implements InitList {
 
 	private Link first = new Link(true);
 	private Link last = new Link(true);

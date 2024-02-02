@@ -1,6 +1,6 @@
 package list;
 
-public interface List {
+public interface InitList {
 	boolean add(int number);
 
 	void delete(int number);

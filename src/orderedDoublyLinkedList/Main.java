@@ -1,11 +1,11 @@
 package orderedDoublyLinkedList;
 
-import list.InitList;
+import list.IntList;
 
 public class Main {
 
 	public static void main(String[] args) {
-		InitList list = new OrderedDoublyLinkedList();
+		IntList list = new OrderedDoublyLinkedList();
 		list.add(12);
 		list.add(21);
 		list.add(3);

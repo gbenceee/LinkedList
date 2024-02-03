@@ -1,8 +1,8 @@
 package doublyLinkedList;
 
-import list.InitList;
+import list.IntList;
 
-public class DoublyLinkedList implements InitList {
+public class DoublyLinkedList implements IntList {
 
 	private Link first = new Link(true);
 	private Link last = new Link(true);

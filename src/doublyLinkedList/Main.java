@@ -1,11 +1,11 @@
 package doublyLinkedList;
 
-import list.InitList;
+import list.IntList;
 
 public class Main {
 
 	public static void main(String[] args) {
-		InitList list = new DoublyLinkedList();
+		IntList list = new DoublyLinkedList();
 		list.add(12);
 		list.add(21);
 		list.add(3);
